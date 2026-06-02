@@ -1,0 +1,4 @@
+GitParser  → 数据层
+LLMClient  → 逻辑层
+main.py    → 控制层
+report     → 表现层
